@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## jc的个人域名
 
 You can use the [editor on GitHub](https://github.com/doublejc/myjc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
